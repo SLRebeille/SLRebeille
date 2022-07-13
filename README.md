@@ -66,7 +66,7 @@ My name is **Santiago** < ([He/Him](https://www.mypronouns.org/he-him))<img src=
 
 <br>
 
-<p><a href="https://ko-fi.com/https://ko-fi.com/slrebeille"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/slrebeille" /></a></p>
+<p><a href="https://ko-fi.com/slrebeille"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/slrebeille" /></a></p>
 
 <br>
 <br>
