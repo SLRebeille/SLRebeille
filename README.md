@@ -8,7 +8,7 @@ My name is **Santiago** < ([He/Him](https://www.mypronouns.org/he-him))<img src=
 - 💬 Talk to me about if Earth actually is **flat**, would headlights work at **light speed**, and everything in between, I am really a talkative person, happy to **help**.
 - 👾 Hobbies: Play video games, Star Wars and learn.
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!).
-- 💻 I am working for: <a href="https://www.teleperformance.com">Telecom/Personal **Argentina**</a>
+- 💻 I am working for: <a href="https://www.teleperformance.com">Teleperformance **Argentina**</a>
 
 <br>
 
