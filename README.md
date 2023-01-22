@@ -3,7 +3,7 @@
 ## 
 
 My name is **Santiago** < ([He/Him](https://www.mypronouns.org/he-him))<img src="https://user-images.githubusercontent.com/109183267/178823367-c546361e-cc5f-41f1-8148-f50ea79d07fa.gif" width="29px">
-- 🔭 I am a *student* of **Web Development** from Coder House. <img src="https://user-images.githubusercontent.com/109183267/178795602-8e6ab9a8-8998-44b0-a1c6-b0a0d23d5653.png" align="right" height="175" />
+- 🔭 I am a *student* of **Front end Developer** from Coder House. <img src="https://user-images.githubusercontent.com/109183267/178795602-8e6ab9a8-8998-44b0-a1c6-b0a0d23d5653.png" align="right" height="175" />
 - 👯 I’m *looking* to collaborate on **any project** to expand my knowledge and experience.
 - 💬 Talk to me about if Earth actually is **flat**, would headlights work at **light speed**, and everything in between, I am really a talkative person, happy to **help**.
 - 👾 Hobbies: Play video games, Star Wars and learn.
